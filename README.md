@@ -1,4 +1,4 @@
-# This model is associated with the paper:
+This model is associated with the paper:
 
 **A model of spike initiation in neocortical pyramidal neurons**
 Z. F. Mainen, J. Joerges, J. R. Huguenard and T. J. Sejnowski
